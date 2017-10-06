@@ -8,7 +8,7 @@
 ## 1. set the value of the matrix
 ## 2. get the value of the matrix
 ## 3. set the value of the inverse
-## 4. get the value of the inverse
+## 4. inverse value is the result
 
 makeCacheMatrix <- function(x = matrix()) {
   ## create a matrix object x and some associated sub-functions/methods
